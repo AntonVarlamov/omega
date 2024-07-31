@@ -1,0 +1,3 @@
+.img:hover .deleteArea,  .img:active .deleteArea{
+    display: flex;
+}
